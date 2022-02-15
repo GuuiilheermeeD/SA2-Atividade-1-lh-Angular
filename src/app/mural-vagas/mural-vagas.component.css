@@ -1,0 +1,12 @@
+.listar-vagas{
+    display:flex ;
+    max-width: 1300px;
+
+}
+
+.listar-vagas .card{
+    width: 300px;   
+    min-height: 450px;
+    margin: 5px;
+    white-space: wrap;
+}
